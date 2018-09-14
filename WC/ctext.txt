@@ -1,0 +1,6 @@
+#include<stdio.h>
+//Êä³öÒ»¾ä»°
+int main(void) 
+{
+    printf("Hello World!");
+}
